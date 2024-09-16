@@ -40,23 +40,23 @@ const chalk = require('chalk');
 
 //owmner v card
 global.ytname = "YT: S4 SALMAN YT" //ur yt chanel name
-global.socialm = "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = "insta: @sadistic_xc" //ur github or insta name
 global.location = "Pakistan, Lahore, Sabzazar" //ur location
 
 //new
-global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['923184070915'] //ur owner number, dont add more than one
-global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner name
+global.botname = 'BLACK_VIGO' //ur bot name
+global.ownernumber = ['923558423179'] //ur owner number, dont add more than one
+global.ownername = 'ASIM MUNEER' //ur owner name
 global.websitex = "https://youtube.com/@s4salmanyt"
-global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = "https://chat.whatsapp.com/CjeoUKPRTEvHGUx0BMvhHG"
 global.themeemoji = '⛩'
 global.wm = "Xlicon Bot Inc."
 global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
-global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
-global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
-global.creator = "923184070915@s.whatsapp.net"
+global.packname = "PROPERTY OF"
+global.author = "ASIM MUNEER"
+global.creator = "923558423179@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923184070915"] // Premium User
+global.premium = ["923558423179"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
