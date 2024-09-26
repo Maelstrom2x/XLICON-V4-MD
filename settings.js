@@ -45,18 +45,18 @@ global.location = "Pakistan, Lahore, Sabzazar" //ur location
 
 //new
 global.botname = 'BLACK_VIGO' //ur bot name
-global.ownernumber = ['923558423179'] //ur owner number, dont add more than one
+global.ownernumber = ['923140152133'] //ur owner number, dont add more than one
 global.ownername = 'ASIM MUNEER' //ur owner name
 global.websitex = "https://youtube.com/@s4salmanyt"
 global.wagc = "https://chat.whatsapp.com/CjeoUKPRTEvHGUx0BMvhHG"
-global.themeemoji = '⛩'
-global.wm = "Xlicon Bot Inc."
+global.themeemoji = '🪖'
+global.wm = "Generals Bot Inc."
 global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
 global.packname = "PROPERTY OF"
 global.author = "ASIM MUNEER"
-global.creator = "923558423179@s.whatsapp.net"
+global.creator = "923140152133@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923558423179"] // Premium User
+global.premium = ["923140152133"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
