@@ -48,7 +48,7 @@ global.botname = 'BLACK_VIGO' //ur bot name
 global.ownernumber = ['923140152133'] //ur owner number, dont add more than one
 global.ownername = 'ASIM MUNEER' //ur owner name
 global.websitex = "https://youtube.com/@s4salmanyt"
-global.wagc = "https://chat.whatsapp.com/CjeoUKPRTEvHGUx0BMvhHG"
+global.wagc = "https://www.instagram.com/memes_ministry69?igsh=ZjNraGw3OWd6NW50"
 global.themeemoji = '🪖'
 global.wm = "Generals Bot Inc."
 global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
